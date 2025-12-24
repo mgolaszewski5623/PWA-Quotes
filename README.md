@@ -84,7 +84,7 @@ pwa-quotes/
 ```
 
 # Wymagania projektu
-```
+
 Zadania mogą być wykonane z wykorzystaniem biblioteki Electron.js lub w postaci aplikacji PWA. Aplikacja Electron.js ma działać w systemie operacyjnym Windows/Linux lub macOS, a aplikacja PWA ma poprawnie działać w przeglądarce internetowej Chrome (lub dowolnej innej opartej na silniku Chromium). W ramach zadania wykorzystać można dowolne biblioteki i frameworki zgodne z wykorzystaną technologią. Zachęcam również do korzystania z bibliotek do budowy UI, które znacznie przyspieszą pracę nad projektem.
 
 - wykorzystanie dowolnego API, które dostępnie jest publicznie (otwartego lub dostępnego po zalogowaniu się celem uzyskania odpowiedniego klucza) - z aplikacji ma być wysyłane zapytanie do API, ma być odpowiednio interpretowane, a jego wynik ma być wyświetlany użytkownikowi
@@ -98,7 +98,6 @@ Zadania mogą być wykonane z wykorzystaniem biblioteki Electron.js lub w postac
 - implementacja logowania do aplikacji - można wykorzystać w tym celu API (np. DummyJSON - Auth) - logowanie ma dawać dostęp do jakiegoś zasobu, który nie jest widoczny przed logowaniem; stan logowania powinien być przechowywany pomiędzy uruchomieniami aplikacji
 
 UWAGA! Zaimplementowana aplikacja ma działać poprawnie w trybie off-line. Pierwsze uruchomienie może korzystać z sieci, ale drugie i każde kolejne ma w przypadku braku dostępu do Internetu korzystać z danych zapisanych przez aplikację.
-```
 
 
 ## Uwagi
